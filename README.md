@@ -1,5 +1,7 @@
 📘 README - NotebookLM
 Aprendizado em Java com Spring Boot
+
+
 🎯 Contexto e Objetivos
 
 Este caderno temático foi criado com foco no estudo da linguagem Java utilizando o framework Spring Boot, com o objetivo de consolidar uma base sólida para desenvolvimento backend.
