@@ -23,22 +23,30 @@ Fontes de texto:
 
 📄 Spring Boot Reference Documentation
 https://docs.spring.io/spring-boot/docs/current/reference/html/
+
 📄 Spring Framework Documentation
 https://docs.spring.io/spring-framework/docs/current/reference/html/
+
 📄 Baeldung - Spring Boot Guide
 https://www.baeldung.com/spring-boot
+
 📄 Java Documentation (Oracle)
 https://docs.oracle.com/en/java/
+
 📄 REST API Best Practices
 https://restfulapi.net/
+
 📄 Spring Document
 https://www.facom.ufu.br/~flavio/pi/files/2022-01/06-Spring-Boot.pdf
 
 Fontes de videos:
 
 https://www.youtube.com/watch?v=BGTx91t8q50
+
 https://www.youtube.com/watch?v=Jl9OKQ92SJU
+
 https://www.youtube.com/watch?v=xWLxhF3b5P8
+
 https://www.youtube.com/watch?v=zvp7HB5ZzpE
 
 🧠 Engenharia de Prompts e "Cicatrizes"
